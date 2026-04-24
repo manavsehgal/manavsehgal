@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @manavsehgal
-- 👀 I’m interested in Python, Growth Hackiing, and AI
-- 🌱 I’m currently (re)learning Python, Streamlit
-- 💞️ I’m looking to collaborate on rapid development in Python
-- 📫 How to reach me https://www.linkedin.com/in/manavsehgal/
-
-<!---
-manavsehgal/manavsehgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Manav Sehgal is author of [AI Native Business](https://ainative.business/book/), a 14-chapter playbook for building autonomous business systems with AI agents. Topics span organizational transformation, autonomous execution, coordination and memory, and self-building systems. He is also writing [AI Field Notes](https://manavsehgal.github.io/ai-field-notes/) as one builder maximising the DGX Spark as a personal AI power user and edge AI rig. Every article is a session transcript turned into a deep-dive essay.
